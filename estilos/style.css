@@ -17,11 +17,12 @@ main {
 
 h1 {
     font-size: 2em;
-    color: rgb(33, 116, 33);
+    color: rgb(0, 83, 0);
 }
 
 h2 {
     font-size: 1.5em;
+    color: rgb(0, 83, 0);
 }
 
 img.lado {
@@ -31,7 +32,7 @@ img.lado {
 a {
     text-decoration: none;
     font-weight: bold;
-    color: rgb(33, 116, 33);
+    color: rgb(0, 83, 0);
 }
 
 a:hover {
